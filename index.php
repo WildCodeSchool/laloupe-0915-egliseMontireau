@@ -12,7 +12,7 @@
       <script type="text/javascript" src="assets/js/responsiveslides.js"></script>
       <script type="text/javascript" src="assets/js/responsiveslides.min.js"></script>   
 
-      <title>Comité de Sauvegarde de l'Eglise de Montireau</title>
+      <title>Comité de Sauvegarde de l'Eglise St-Barthélemy de Montireau</title>
 
    </head>
 
@@ -22,7 +22,7 @@
       <?php include('menu.php'); ?>
       
       <section>
-         
+
          <article>                
 
          </article>
