@@ -12,7 +12,7 @@
       <script type="text/javascript" src="assets/js/responsiveslides.js"></script>
       <script type="text/javascript" src="assets/js/responsiveslides.min.js"></script>   
 
-      <title>Eglise ...</title>
+      <title>Comité de Sauvegarde de l'Eglise de Montireau</title>
 
    </head>
 
@@ -22,12 +22,15 @@
       <?php include('menu.php'); ?>
       
       <section>
-         <aside>
-
-         </aside>
+         
          <article>                
 
          </article>
+
+         <aside>
+
+         </aside>
+
       </section>
       
       <?php include('footer.php'); ?>
