@@ -7,56 +7,62 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Accueil<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php"></a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
             <!--<li role="separator" class="divider"></li>-->
           </ul>
         </li>
         <li class="dropdown">
           <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eglise<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="eglise.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Historique<span class="caret"></span></a>
+          <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Historique<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php">Interieur</a></li>
-            <li><a href="#.php">Exterieur</a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vitraux<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Association<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
-            <li><a href="#.php"></a></li>
+            <li><a href="#.php">1</a></li>
+            <li><a href="#.php">2</a></li>
+            <li><a href="#.php">3</a></li>
+            <li><a href="#.php">4</a></li>
+            <li><a href="#.php">5</a></li>
           </ul>
         </li>
       </ul>

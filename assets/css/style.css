@@ -39,7 +39,7 @@ html>body #menulist li
 
 #menulist li ul li /* Eléments de sous-listes */
 {
-        /* pour ie qui ne reconnaît pas "transparent" (comme précédemment) */
+        /* pour IE qui ne reconnaît pas "transparent" (comme précédemment) */
         border-top : 1px solid #fff; /* on met une bordure blanche en haut de chaque élément d'une sous-liste */
 }
 
