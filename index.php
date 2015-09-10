@@ -55,10 +55,6 @@
                </p>
 
             </article>
-
-            <aside>
-
-            </aside>
          </div>
       </section>
       
