@@ -75,7 +75,7 @@
             <li><a href="wip.php"></a></li>
           </ul>
         </li>
-        <li><a href="wip.php">Formalités administratives</a></li>
+        <li><a href="wip.php"></a></li>
         <li class="dropdown">
           <a href="wip.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fil d'info<span class="caret"></span></a>
           <ul class="dropdown-menu">
