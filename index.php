@@ -5,14 +5,14 @@
       <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />
       <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
+      <script type="text/javascript" src="assets/js/jquery-1.11.3.min.js"></script>
       <script type="text/javascript" src="assets/js/bootstrap.js"></script>
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
       <link rel="stylesheet" type="text/css" href="assets/css/slide.css" />
       <script type="text/javascript" src="assets/js/responsiveslides.js"></script>
       <script type="text/javascript" src="assets/js/responsiveslides.min.js"></script>   
 
-      <title>Eglise ...</title>
+      <title>Comité de Sauvegarde de l'Eglise St-Barthélemy de Montireau</title>
 
    </head>
 
@@ -22,13 +22,11 @@
       <?php include('menu.php'); ?>
       
       <section>
-         <aside>
-         </aside>
-         <article>                
-         </article>
          <div class ="presentation">
             <article>                
                <h2>Notre lutte en bref...</h2>
+
+    
 
                <p>L'association du "Comité de Sauvegarde de l'église de Montireau" oeuvre à la remise en 
                   état de l'édifice locale, classé Monument Historique en 1980 (arrêté du 9 Juilet), et 
@@ -59,11 +57,7 @@
                </p>
 
             </article>
-
-            <aside>
-
-            </aside>
-         </div>
+             </div>
       </section>
       
       <?php include('footer.php'); ?>
