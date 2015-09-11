@@ -2,8 +2,9 @@
 <html>
    <head>
       <meta charset="utf-8" />
-      <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />
+
       <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+      <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />      
 
       <script type="text/javascript" src="assets/js/jquery-1.11.3.min.js"></script>
       <script type="text/javascript" src="assets/js/bootstrap.js"></script>
@@ -17,12 +18,12 @@
    </head>
 
    <body>
-      <?php include('slide.php'); ?>
-
-      <?php include('menu.php'); ?>
       
-      <section>
-         <div class ="presentation">
+      <?php include('menu.php'); ?>
+
+      <?php include('slide.php'); ?>
+      
+      <div class ="presentation">
             <article>                
                <h2>Notre lutte en bref...</h2>
 
@@ -50,13 +51,18 @@
                      <li>remise en polychromie de la statuaire,</li>
                      <li>traitement des peintures murales.</li>
                   </ul>
-
+                  
                   <a href="#">plus d'info...</a>
                </p>
+      </div><br />
 
-            </article>
-         </div>
-      </section>
+      <div class="ggmap">
+         <p>La map !</p>
+      </div><br />
+      
+      <div class="trucvide">
+         <p>Lien de la vidéo ou alors une barre de progression sur les dons</p>
+      </div>   
       
       <?php include('footer.php'); ?>
    </body>
