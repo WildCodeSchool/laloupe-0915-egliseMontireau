@@ -18,11 +18,11 @@
         <li class="dropdown">
           <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eglise<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php">1</a></li>
-            <li><a href="#.php">2</a></li>
-            <li><a href="#.php">3</a></li>
-            <li><a href="#.php">4</a></li>
-            <li><a href="#.php">5</a></li>
+            <li><a href="#.php">Ext</a></li>
+            <li><a href="#.php">Int</a></li>
+            <li><a href="#.php">Croisade</a></li>
+            <li><a href="#.php">Vitraux</a></li>
+            <li><a href="#.php">Statue</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -36,13 +36,13 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vitraux<span class="caret"></span></a>
+          <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Livre d'Or<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php">1</a></li>
-            <li><a href="#.php">2</a></li>
-            <li><a href="#.php">3</a></li>
-            <li><a href="#.php">4</a></li>
-            <li><a href="#.php">5</a></li>
+            <li><a href="#.php"></a></li>
+            <li><a href="#.php"></a></li>
+            <li><a href="#.php"></a></li>
+            <li><a href="#.php"></a></li>
+            <!-- <li><a href="#.php"></a></li> -->
           </ul>
         </li>
         <li class="dropdown">
@@ -56,9 +56,9 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact<span class="caret"></span></a>
+          <a href="contact.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#.php">1</a></li>
+            <li><a href="contact.php">Formulaire</a></li>
             <li><a href="#.php">2</a></li>
             <li><a href="#.php">3</a></li>
             <li><a href="#.php">4</a></li>
