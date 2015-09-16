@@ -24,8 +24,10 @@
       <?php include('slide.php'); ?>
       
       <div class="row">
+
          <div class="col-md-1"></div><!-- separateur -->
-         <div class="col-xs-6 col-md-6">Présentation
+
+         <div class="col-xs-6 col-md-6 presentation">
             <article>                
                <h2>Notre lutte en bref...</h2>
                <p>L'association du "Comité de Sauvegarde de l'église de Montireau" oeuvre à la remise en 
@@ -56,9 +58,15 @@
                   <a href="#">plus d'info...</a>
                </p>
          </div>
+
          <div class="col-md-1"></div><!-- separateur -->
-         <div class="col-xs-6 col-md-4">Ggmap</div>
+
+         <div class="col-xs-6 col-md-4" id="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5297.2492521035765!2d1.0305020290527345!3d48.40615143404584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e3ea9609f68563%3A0x40dc8d705397a50!2s28240+Montireau!5e0!3m2!1sfr!2sfr!4v1442397611892" width="400" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
+         </div>
+       
          <div class="col-md-1"></div><!-- separateur -->
+
          <div class="col-xs-6 col-md-4">truc</div>
       </div> 
       
