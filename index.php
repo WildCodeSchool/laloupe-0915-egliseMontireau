@@ -23,10 +23,11 @@
 
       <?php include('slide.php'); ?>
       
-      <div class ="presentation">
+      <div class="row">
+         <div class="col-md-1"></div><!-- separateur -->
+         <div class="col-xs-6 col-md-6">Présentation
             <article>                
                <h2>Notre lutte en bref...</h2>
-
                <p>L'association du "Comité de Sauvegarde de l'église de Montireau" oeuvre à la remise en 
                   état de l'édifice locale, classé Monument Historique en 1980 (arrêté du 9 Juilet), et 
                   tente de mettre en place un programme des travaux à réaliser accompagné d'un diagnostic 
@@ -51,18 +52,15 @@
                      <li>remise en polychromie de la statuaire,</li>
                      <li>traitement des peintures murales.</li>
                   </ul>
-                  
+                   
                   <a href="#">plus d'info...</a>
                </p>
-      </div><br />
-
-      <div class="ggmap">
-         <p>La map !</p>
-      </div><br />
-      
-      <div class="trucvide">
-         <p>Lien de la vidéo ou alors une barre de progression sur les dons</p>
-      </div>   
+         </div>
+         <div class="col-md-1"></div><!-- separateur -->
+         <div class="col-xs-6 col-md-4">Ggmap</div>
+         <div class="col-md-1"></div><!-- separateur -->
+         <div class="col-xs-6 col-md-4">truc</div>
+      </div> 
       
       <?php include('footer.php'); ?>
    </body>
