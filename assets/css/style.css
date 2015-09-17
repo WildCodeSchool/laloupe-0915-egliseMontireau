@@ -1,33 +1,42 @@
-#menulist
+/********************
+*                   *
+*   Page d'accueil  *
+*                   *
+********************/
+
+
+.col-md-6, .col-md-4
 {
-    position: fixed;
-    margin-left: 300px;
+    border: 1px solid black;
 }
 
 .presentation
 {
-    border: 1px solid green;
     text-align: justify;
-    float: left;
-    margin: auto;
-    padding: auto;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 1px;
 }
 
-.ggmap
+#map, #video_presentation 
 {
-    border: 1px solid red;
-    text-align: justify;
-    float: right;
-    margin: auto;
-    padding: auto;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 0px;
+    padding-left: 0px;
+
 }
 
-.trucvide
+#menulist
 {
-    border: 1px solid blue;
-    text-align: justify;
-    float: right;
-    margin: auto;
-    padding: auto;
+    position: fixed;
+    /*margin-left: 300px;
+    z-index: 1000;*/
 }
 
+footer
+{
+    border: 1px solid black;
+    margin-top: 10px;
+}
